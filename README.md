@@ -1,6 +1,6 @@
 # 👩‍💻 Hi there, I'm Suhani! 
 
-🌸 A CSE student passionate about Web Development and Problem Solving.
+🌸 Learning Web Dev | Passionate about Problem Solving
 
 ---
 
