@@ -1,6 +1,6 @@
 # 👩‍💻 Hi there, I'm Suhani! 
 
-🌸 Learning Web Dev | Passionate about Problem Solving
+🌸 Aspiring Software Developer | Fresher | Passionate about Problem Solving
 
 ---
 
