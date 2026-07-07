@@ -13,4 +13,4 @@
 
 
 > 💭 Professional documentation avoider.
-> *(Working on it... but I still somehow end up watching endless YouTube tutorials. 😭)*
+> *(Working on it... but I still somehow end up watching endless YouTube tutorials.)*
