@@ -12,6 +12,4 @@
 - 🧠 Actively improving my **DSA skills in Java**
 - 🎨 Apart from this, I also enjoy painting, sketching and exploring creative art.
 
-
-> 💭 Professional documentation avoider.
-> *(Working on it... but I still somehow end up watching endless YouTube tutorials.)*
+ 
